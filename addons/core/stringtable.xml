@@ -4,153 +4,188 @@
         <Key ID="STR_ACM_Core_Category">
             <English>ACM: Core</English>
             <Polish>ACM: Core</Polish>
+            <French>ACM: Core</French>
         </Key>
         <Key ID="STR_ACM_Core_Category_Items">
             <English>Items</English>
             <Polish>Przedmioty</Polish>
+            <French>Objets</French>
         </Key>
         <Key ID="STR_ACM_Core_SETTING_TreatmentTime_TakeOffTourniquet">
             <English>Take Off Tourniquet Time</English>
             <Polish>Czas zdjęcia opaski uciskowej</Polish>
+            <French>Temps pour enlever le garrot</French>
         </Key>
         <Key ID="STR_ACM_Core_SETTING_TreatmentTime_TakeOffTourniquet_Desc">
             <English>Time to take off tourniquet</English>
             <Polish>Czas potrzebny na zdjęcie opaski uciskowej</Polish>
+            <French>Temps pour enlever le garrot</French>
         </Key>
         <Key ID="STR_ACM_Core_SETTING_Dogtag_ShowWeight">
             <English>Dogtag list weight</English>
             <Polish>Nieśmiertelniki pokazują wagę</Polish>
+            <French>Les plaques d'identité affichent le poids</French>
         </Key>
         <Key ID="STR_ACM_Core_SETTING_Dogtag_ShowWeight_Desc">
             <English>Set whether dog tags list the unit's weight</English>
             <Polish>Czy na nieśmietelnikach ma się wyświetlać waga jednostki</Polish>
+            <French>Définir si les plaques d'identité affichent le poids de l'unité</French>
         </Key>
         <Key ID="STR_ACM_Core_SETTING_IgnoreIncompatibleAddonWarnings">
             <English>Ignore Incompatible Addon Warning</English>
             <Polish>Zignoruj ostrzeżenia o niekompatybilności</Polish>
+            <French>Ignorer les avertissements d'addon incompatibles</French>
         </Key>
         <Key ID="STR_ACM_Core_SETTING_IgnoreIncompatibleAddonWarnings_Desc">
             <English>Disables incompatible addon warnings</English>
             <Polish>Wyłącza ostrzeżenia o niekompatybilnych addonach</Polish>
+            <French>Désactive les avertissements d'addon incompatibles</French>
         </Key><!--
             // Actions // -->
         <Key ID="STR_ACM_Core_MorphineAutoinjector">
             <English>Use Morphine Autoinjector</English>
             <Polish>Użyj autostrzykawki z morfiną</Polish>
+            <French>Utiliser autoinjecteur de morphine</French>
         </Key>
         <Key ID="STR_ACM_Core_MorphineAutoinjector_Progress">
             <English>Using Morphine Autoinjector...</English>
             <Polish>Używanie autostrzykawki z morfiną...</Polish>
+            <French>Utilisation de l'autoinjecteur de morphine...</French>
         </Key>
         <Key ID="STR_ACM_Core_EpinephrineAutoinjector">
             <English>Use Epinephrine Autoinjector</English>
             <Polish>Użyj autostrzykawki z epinefryną</Polish>
+            <French>Utiliser autoinjecteur d'adrénaline</French>
         </Key>
         <Key ID="STR_ACM_Core_EpinephrineAutoinjector_Progress">
             <English>Using Epinephrine Autoinjector...</English>
             <Polish>Używanie autostrzykawki z epinefryną...</Polish>
+            <French>Utilisation de l'autoinjecteur d'adrénaline...</French>
         </Key>
         <Key ID="STR_ACM_Core_AdenosineAutoinjector">
             <English>Use Adenosine Autoinjector</English>
             <Polish>Użyj autostrzykawki z adenozyną</Polish>
+            <French>Utiliser autoinjecteur d'adénosine</French>
         </Key>
         <Key ID="STR_ACM_Core_AdenosineAutoinjector_Progress">
             <English>Using Adenosine Autoinjector...</English>
             <Polish>Używanie autostrzykawki z adenozyną...</Polish>
+            <French>Utilisation de l'autoinjecteur d'adénosine...</French>
         </Key><!--
             // Cancel Carrying // -->
         <Key ID="STR_ACM_Core_CancelCarrying">
             <English>Cancel Carrying</English>
             <Polish>Przestań nieść</Polish>
+            <French>Annuler le transport</French>
         </Key>
         <Key ID="STR_ACM_Core_CancelCarrying_Stopped">
             <English>Stopped carrying %1</English>
             <Polish>Przestano nieść %1</Polish>
+            <French>Transport de %1 annulé</French>
         </Key><!--
             // Lying State // -->
         <Key ID="STR_ACM_Core_LyingState_GetUp">
             <English>Get Up</English>
             <Polish>Wstań</Polish>
+            <French>Se lever</French>
         </Key><!--
             // Treatment Text // -->
         <Key ID="STR_ACM_Core_TreatedBy">
             <English>You are being treated by %1</English>
             <Polish>%1 udziela ci pomocy</Polish>
+            <French>Vous êtes soigné par %1</French>
         </Key><!--
             // Vehicle Patient Actions // -->
         <Key ID="STR_ACM_Core_VehiclePatients">
             <English>Vehicle Patients</English>
             <Polish>Pacjenci w pojeździe</Polish>
+            <French>Patients dans le véhicule</French>
         </Key><!--
             // Unload and carry // -->
         <Key ID="STR_ACM_Core_CarryPatient">
             <English>Carry Patient</English>
             <Polish>Nieś pacjenta</Polish>
+            <French>Porter le patient</French>
         </Key><!--
             // Boxes // -->
         <Key ID="STR_ACM_Core_MedicalSupplyCrate_Basic_Display">
             <English>[ACM] Basic Medical Supply Crate</English>
             <Polish>[ACM] Podstawowa skrzynia z zaopatrzeniem medycznym </Polish>
+            <French>Caisse de matériel médical (basique)</French>
         </Key>
         <Key ID="STR_ACM_Core_MedicalSupplyCrate_Advanced_Display">
             <English>[ACM] Advanced Medical Supply Crate</English>
             <Polish>[ACM] Zaawansowana skrzynia z zaopatrzeniem medycznym </Polish>
+            <French>Caisse de matériel médical (avancée)</French>
         </Key><!--
             // Dog Tags // -->
         <Key ID="STR_ACM_Core_DogTags_InspectingDogtags">
 		    <English>%1 is inspecting your dog tags</English>
 		    <Polish>%1 sprawdza twój nieśmiertelnik</Polish>
+            <French>%1 inspecte vos documents d'identité</French>
         </Key><!--
             // Incompatible Addons // -->
         <Key ID="STR_ACM_Core_IncompatibleAddons_Found">
             <English>Incompatible addons found:</English>
             <Polish>Znaleziono niekompatybilne addony:</Polish>
+            <French>Addons incompatibles trouvés :</French>
         </Key><!--
             // Common // -->
         <Key ID="STR_ACM_Core_Common_Inserted">
             <English>Inserted</English>
             <Polish>Włożono</Polish>
+            <French>Inséré</French>
         </Key>
         <Key ID="STR_ACM_Core_Common_Attached">
             <English>Attached</English>
             <Polish>Przymocowano</Polish>
+            <French>Attaché</French>
         </Key>
         <Key ID="STR_ACM_Core_Common_Applied">
             <English>Applied</English>
             <Polish>Podano</Polish>
+            <French>Appliqué</French>
         </Key>
         <Key ID="STR_ACM_Core_Common_Removed">
             <English>Removed</English>
             <Polish>Usunięto</Polish>
+            <French>Retiré</French>
         </Key>
         <Key ID="STR_ACM_Core_Common_Connected">
             <English>Connected</English>
             <Polish>Przyczepiono</Polish>
+            <French>Connecté</French>
         </Key>
         <Key ID="STR_ACM_Core_Common_Disconnected">
             <English>Disconnected</English>
             <Polish>Odczepiono</Polish>
+            <French>Déconnecté</French>
         </Key>
         <Key ID="STR_ACM_Core_Common_InProgress">
             <English>In Progress</English>
             <Polish>W trakcie</Polish>
+            <French>En cours</French>
         </Key>
         <Key ID="STR_ACM_Core_Common_Paused">
             <English>Paused</English>
             <Polish>Przerwane</Polish>
+            <French>En pause</French>
         </Key>
         <Key ID="STR_ACM_Core_Common_Active">
             <English>Active</English>
             <Polish>Aktywny</Polish>
+            <French>Actif</French>
         </Key>
         <Key ID="STR_ACM_Core_Common_Empty">
             <English>Empty</English>
             <Polish>Pusty </Polish>
+            <French>Vide</French>
         </Key><!--
             // ACE Action // -->
         <Key ID="STR_ACM_Core_MedicalEquipment">
             <English>Medical Equipment</English>
             <Polish>Wyposażenie medyczne</Polish>
+            <French>Matériel médical</French>
         </Key>
     </Package>
 </Project>
