@@ -4,26 +4,32 @@
         <Key ID="STR_ACM_Damage_Category">
             <English>ACM: Damage</English>
             <Polish>ACM: Obrażenia</Polish>
+            <French>ACM: Dommages</French>
         </Key>
         <Key ID="STR_ACM_Damage_Category_Thresholds">
             <English>Thresholds</English>
             <Polish>Progi</Polish>
+            <French>Seuils</French>
         </Key>
         <Key ID="STR_ACM_Damage_Category_InternalBleeding">
             <English>Internal Bleeding</English>
             <Polish>Krwotok wewnętrzny</Polish>
+            <French>Saignement interne</French>
         </Key>
         <Key ID="STR_ACM_Damage_Category_AIUnits">
             <English>AI Units</English>
             <Polish>Jednostki SI</Polish>
+            <French>Unités IA</French>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_Enable">
             <English>Enable Damage Addon</English>
             <Polish>Włącz obrażenia</Polish>
+            <French>Activer les dommages</French>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_Enable_Desc">
             <English>Enable modified damage thresholds</English>
             <Polish>Włącz modyfikowanie progów obrażeń</Polish>
+            
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_HeadTraumaDeathThreshold">
             <English>Head Trauma Death Threshold</English>
