@@ -1419,38 +1419,47 @@
         <Key ID="STR_ACM_Circulation_AED_Monitor_SpO2">
             <English>SpO2</English>
             <Polish>SpO2</Polish>
+            <French>SpO2</French>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_CO2">
             <English>CO2</English>
             <Polish>CO2</Polish>
+            <French>CO2</French>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_NIBP">
             <English>NIBP</English>
             <Polish>NIBP</Polish>
+            <French>NIBP</French>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_BP">
             <English>BP</English>
             <Polish>BP</Polish>
+            <French>BP</French>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_RR">
             <English>RR</English>
             <Polish>RR</Polish>
+            <French>RR</French>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_Button_CPR">
             <English>CPR Mode Toggle</English>
             <Polish>Aktywuj tryb RKO</Polish>
+            <French>Basculer en mode RCP</French>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_Button_Analyze">
             <English>Analyze Rhythm</English>
             <Polish>Analizuj rytm</Polish>
+            <French>Analyser le rythme</French>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_Button_NIBP">
             <English>Measure NIBP</English>
             <Polish>Zmierz NIBP</Polish>
+            <French>Mesurer la tension artérielle</French>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_Button_Alarms">
             <English>Toggle Alarms</English>
             <Polish>Włącz alarm</Polish>
+            <French>Activer les alarmes</French>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_Button_Charge">
             <English>Manual Charge</English>
